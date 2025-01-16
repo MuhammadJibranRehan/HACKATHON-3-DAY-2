@@ -1,6 +1,7 @@
+# HACKATHON-3-DAY-2
+
 "🚀 Day 2 of Hackathon 2025 was all about laying the technical foundation for our cutting-edge General E-Commerce platform! 💻✨ Teams focused on creating a user-friendly frontend 🖥️, a powerful backend powered by Sanity CMS 🛠️, and seamless third-party API integrations 🔗. From responsive designs 📱 to driver management systems 🚚, we’re building scalable, real-time solutions for express delivery 🚀, customer retention 🎯, and operational efficiency ⚡. This milestone brings us closer to redefining quick commerce with speed, reliability, and innovation at its core! 🔥🙌"
 
-# HACKATHON-3-DAY-2
 
 Key Topics:
 Technology Stack:
