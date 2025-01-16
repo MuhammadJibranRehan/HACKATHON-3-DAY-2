@@ -52,4 +52,5 @@ Secure Transactions: Integrates with payment providers like Stripe or PayPal.
 
 DIAGRAMS FOR DEEP UNDERSTANDING
 
-![image alt](https://github.com/MuhammadJibranRehan/HACKATHON-3-DAY-2/blob/acccff976dce5cc9857a5c5abfc827b25df3a04a/Marketplace%20Technical%20Foundation.docx)
+![image alt](https://github.com/MuhammadJibranRehan/HACKATHON-3-DAY-2/blob/acccff976dce5cc9857a5c5abfc827b25df3a04a/HACKATHON3%20DAY%202.jpg)
+![image alt](https://github.com/MuhammadJibranRehan/HACKATHON-3-DAY-2/blob/acccff976dce5cc9857a5c5abfc827b25df3a04a/OVERVIEW%20OF%20HACKATHON3%20DAY%202.jpg)
