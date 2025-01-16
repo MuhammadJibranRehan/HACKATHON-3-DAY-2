@@ -49,3 +49,6 @@ Order Tracking: Users can track their orders using a tracking ID.
 Dynamic Routing: Handles different product categories and user interactions.
 Context API: Manages product prices and cart state for a smooth UX.
 Secure Transactions: Integrates with payment providers like Stripe or PayPal.
+
+DIAGRAMS FOR DEEP UNDERSTANDING
+
